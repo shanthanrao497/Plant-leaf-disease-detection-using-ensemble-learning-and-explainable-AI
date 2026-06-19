@@ -60,6 +60,3 @@ Future Enhancements:
 * Cloud deployment
 * IoT-based monitoring integration
 * Deep learning model enhancements
-
-Author:
-Shanthan Rao Patiki
